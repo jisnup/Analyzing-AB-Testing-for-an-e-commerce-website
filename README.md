@@ -1,7 +1,7 @@
 # Analyzing AB Testing results for an E-commerce website
 
 ## Summary
-This is an A/B testing assignment completed for Udacity's Data Analyst Nano Degree Program. To increase the conversion rate of the shoppers
+This is an A/B testing assignment which was completed for Udacity's Data Analyst Nano Degree Program. To increase the conversion rate of the shoppers
 changes were made to the companies website, so A/B testing was done to analyze the changes through statistical conclusions, 
 if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
